@@ -1,0 +1,24 @@
+{
+  "name": "protofolio_website_project",
+  "version": "1.0.0",
+  "description": "This is a development project for a website built using Laravel PHP, JS, HTML and CSS.\r ---\r ## Uses \r - Vanilla JS\r - HTML5\r - CSS3\r - Tailwind CCS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSTX-1231/Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CSTX-1231/Projects/issues"
+  },
+  "homepage": "https://github.com/CSTX-1231/Projects#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
