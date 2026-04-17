@@ -6,4 +6,3 @@ This is a development project for a website built using Laravel PHP, JS, HTML an
 - HTML5
 - CSS3
 - Tailwind CCS
-- MariaDB
