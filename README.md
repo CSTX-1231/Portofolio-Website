@@ -1,3 +1,9 @@
+# About This Project
+This is a basic news website template designed as a beginner project to practice modern web development. The project focuses on building a clean and responsive UI for displaying portofolio. It is developed using React.js with Vite as the build tool, and styled using Tailwind CSS for fast and efficient UI design. This project is currently deployed and hosted on Vercel. 
+
+Most of the projects here are still under progress. 
+Started on 17/04/2026.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,3 +22,4 @@ Note: This will impact Vite dev & build performances.
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
