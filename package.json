@@ -1,26 +1,30 @@
 {
-  "name": "protofolio_website_project",
-  "version": "1.0.0",
-  "description": "This is a development project for a website built using Laravel PHP, JS, HTML and CSS.\r ---\r ## Uses \r - Vanilla JS\r - HTML5\r - CSS3\r - Tailwind CCS",
-  "main": "script.js",
+  "name": "protofolio-website-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CSTX-1231/Projects.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/CSTX-1231/Projects/issues"
-  },
-  "homepage": "https://github.com/CSTX-1231/Projects#readme",
   "dependencies": {
-    "@tailwindcss/vite": "^4.2.2",
-    "express": "^5.2.1",
-    "tailwindcss": "^4.2.2"
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@eslint/js": "^9.39.4",
+    "@rolldown/plugin-babel": "^0.2.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.4.0",
+    "vite": "^8.0.4"
   }
 }

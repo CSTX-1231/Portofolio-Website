@@ -1,20 +1,18 @@
-# Modern web application built with React, Tailwind CSS, and HTML. Hosted with Vercel.
-## This project features a responsive layout, reusable components, and interactive UI elements using JavaScript.
----
-Features:
-Responsive design
-Component-based structure
-Styled with Tailwind CSS 
-Interactive user interface
+# React + Vite
 
-Tech Stack:
-- React JS
-- Tailwind CSS
-- HTML5
-- JavaScript (ES6+)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Purpose:
-This project was created to practice modern frontend development and UI design a basic portofolio website.
+Currently, two official plugins are available:
 
-Website link:
-https://portofolio-website-blue-five.vercel.app/
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+
+Note: This will impact Vite dev & build performances.
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
