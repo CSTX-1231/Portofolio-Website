@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/CSTX-1231/Projects#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "@tailwindcss/vite": "^4.2.2",
+    "express": "^5.2.1",
+    "tailwindcss": "^4.2.2"
   }
 }
