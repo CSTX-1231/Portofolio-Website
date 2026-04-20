@@ -3,8 +3,8 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-// Example of an API route for register
+// Register route
 Route::post('/register', [App\Http\Controllers\AuthController::class, 'register']);
 
-// Example of an API route for login
+// Login route
 Route::post('/login', [App\Http\Controllers\AuthController::class, 'login']);
